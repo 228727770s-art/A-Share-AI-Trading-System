@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+.DS_Store
+
+*.log
+
+data/*.csv
+data/*.parquet
+
+.streamlit/secrets.toml
+.env
